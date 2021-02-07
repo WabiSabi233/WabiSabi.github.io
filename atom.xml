@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://https://michaelhnu.github.io/japanese/</id>
-    <title>Gridea</title>
-    <updated>2021-02-07T09:37:57.984Z</updated>
+    <title>Shun&apos;s Blog</title>
+    <updated>2021-02-07T09:41:07.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://https://michaelhnu.github.io/japanese/"/>
     <link rel="self" href="https://https://michaelhnu.github.io/japanese/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>May the force be with you, my boy.</subtitle>
     <logo>https://https://michaelhnu.github.io/japanese/images/avatar.png</logo>
     <icon>https://https://michaelhnu.github.io/japanese/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Shun&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[宝宝鸡你来啦]]></title>
         <id>https://https://michaelhnu.github.io/japanese/post/ha-lou/</id>
